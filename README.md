@@ -48,31 +48,31 @@ Acesse [http://localhost:3001](http://localhost:3001) no seu navegador para ver 
 Adicione prints da aplicação aqui:
 
 ### Página Inicial
-![Página Inicial](prints sistema/inicio.png)
+![Página Inicial](prints-sistema/inicio.png)
 
 ### Alunos
-![Alunos](prints sistema/alunos.png)
+![Alunos](prints-sistema/alunos.png)
 
 ### Cadastro de Alunos
-![Cadastro de Alunos](prints sistema/cadastro-alunos.png)
+![Cadastro de Alunos](prints-sistema/cadastro-alunos.png)
 
 ### Matrículas
-![Matrículas](prints sistema/matriculas.png)
+![Matrículas](prints-sistema/matriculas.png)
 
 ### Cadastrar Matrícula
-![Cadastrar Matrícula](prints sistema/cadastrar-matricula.png)
+![Cadastrar Matrícula](prints-sistema/cadastrar-matricula.png)
 
 ### Frequências
-![Frequências](prints sistema/frequencias.png)
+![Frequências](prints-sistema/frequencias.png)
 
 ### Cadastro de Frequências
-![Cadastro de Frequências](prints sistema/cadastro-frequencias.png)
+![Cadastro de Frequências](prints-sistema/cadastro-frequencias.png)
 
 ### Treinos
-![Treinos](prints sistema/treinos.png)
+![Treinos](prints-sistema/treinos.png)
 
 ### Cadastro de Treinos
-![Cadastro de Treinos](prints sistema/cadastro-treinos.png)
+![Cadastro de Treinos](prints-sistema/cadastro-treinos.png)
 
 ## Estrutura do Projeto
 
